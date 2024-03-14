@@ -1,4 +1,4 @@
-window.addEventListener("load", init);
+  window.addEventListener("load", init);
 var tomb = [];
 
 var tomb2 = [1, 2, 3, 4, 5, 6, 7];
